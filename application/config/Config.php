@@ -8,17 +8,17 @@ Namespace ApiLib\Config;
 class Config{
 
     ///Database Configs
-    const DbHost = 'localhost';
-    const DbUser = "root";
-    const DbPass = "mysql";
-    const DbName = "card_processor";
+    const DbHost = '';
+    const DbUser = "";
+    const DbPass = "";
+    const DbName = "";
 
 
-    const error   = 'Logs/error.log';
-    const info    = 'Logs/info.log';
-    const debug   = 'Logs/debug.log';
-    const tat     = 'Logs/tat.log';
-    const sequel  = 'Logs/sql.log';
+    const error   = '';
+    const info    = '';
+    const debug   = '';
+    const tat     = '';
+    const sequel  = '';
 }
 
 
