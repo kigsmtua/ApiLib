@@ -1,32 +1,17 @@
 <?php
-Namespace Cellulant\CARD_GATEWAY\Config; 
+Namespace ApiLib\Config; 
 
 /**
  ** validation rules 
  ** loads all the validation rules
- ** @author john.kiragu@cellulant.com
+ ** @author mutuakiragu@gmail.com
  ** (should be in a model ideally )
  **/
 class Validation{
 
   
    public $rules = array(){
-    	'postPaymentRequest' => array(
- 
-             'required' => array(
-            
-             ),
-
-         ),
-    	'postPaymentResult'  => array(
- 
-            'required' => array(
-            
-            ),
-            'string'=>array(
-
-            ),
-    	 ),
+  
 
     };
 

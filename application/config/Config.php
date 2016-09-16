@@ -1,10 +1,9 @@
 <?php
-Namespace Cellulant\CARD_GATEWAY\Config;
+Namespace ApiLib\Config;
 
 /**
  ** Application configs 
- ** @author John Kiragu   <john.kiragu@cellulant.com>
- ** @author Victor Wekesa <victor.wekesa@cellulant.com>
+ ** @author John Kiragu   <mutuakiragu@gmail.com>
  **/
 class Config{
 
