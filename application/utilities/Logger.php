@@ -10,7 +10,7 @@
 * @author Kiragu
 * @email <mutuakiragu@gmail.com> 
 **/
-namespace Cellulant\SMS_CPG\Core\Utilities;
+namespace ApiLib\Utilities;
 
 class Logger {
   var $file, $path, $level, $stream;
